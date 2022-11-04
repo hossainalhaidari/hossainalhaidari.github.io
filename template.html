@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>{{it.title}}</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/sakura.css@1.4.1/css/sakura.min.css"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <h2>{{it.title}}</h2>
+    <p>
+      {{@each(it.summary) => it}}
+      <strong>{{it.title}}</strong> {{it.value}}<br />
+      {{/each}}
+      <strong>Profiles</strong>
+      {{@each(it.profiles) => it}}
+      <a href="{{it.url}}">{{it.title}}</a>, {{/each}}
+    </p>
+    <h2>SKILLS</h2>
+    {{@each(it.skills) => it}}
+    <p>
+      <strong>{{it.title}}</strong><br />
+      {{it.value}}
+    </p>
+    {{/each}}
+    <h2>EDUCATION</h2>
+    {{@each(it.educations) => it}}
+    <p>
+      <strong>{{it.name}}</strong>, {{it.location}}<br />
+      <em>{{it.degree}}</em><br />
+      <em>{{it.period}}</em><br />
+      Grade Percentage: <strong>{{it.gpa}}%</strong>
+    </p>
+    {{/each}}
+    <h2>EXPERIENCES</h2>
+    {{@each(it.experiences) => it}}
+    <p>
+      <strong>{{it.company}}</strong> — <em>{{it.period}}</em><br />
+      {{it.website}}<br />
+      {{it.title}}
+    </p>
+    {{/each}}
+    <h2>PROJECTS</h2>
+    {{@each(it.projects) => it}}
+    <p>
+      <strong>{{it.title}}</strong>, {{it.company}} — <em>{{it.techStack}}</em
+      ><br />
+      {{it.url}}<br />
+      <em>{{it.description}}</em>
+    </p>
+    {{/each}}
+    <h2>ACHIEVEMENTS</h2>
+    <ul>
+      {{@each(it.achievements) => it}}
+      <li>
+        {{it.description}} —
+        <em>{{it.company}}</em>
+      </li>
+      {{/each}}
+    </ul>
+  </body>
+</html>

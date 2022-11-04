@@ -1,0 +1,215 @@
+title: HOSSAIN ALHAIDARI
+summary:
+  - title: Website
+    value: https://hossain.al
+  - title: Birthday
+    value: 1991
+  - title: Location
+    value: Germany
+  - title: Languages
+    value: English, German, Persian, Arabic
+profiles:
+  - title: GitHub
+    url: https://github.com/hossainalhaidari
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/hossainalhaidari
+  - title: Stack Overflow
+    url: https://stackoverflow.com/users/926367/hossain-alhaidari
+skills:
+  - title: "Experienced in:"
+    value: TypeScript, React, C#, .NET Core, Java, Python, Swift, AWS, Azure, CI/CD, RDBMS, NoSQL
+  - title: "Less experienced but interested in:"
+    value: Rust, Go, Godot, Unity
+educations:
+  - name: AIAU University
+    location: Markazi
+    degree: BS in Software Engineering
+    period: October 2009 - November 2013
+    gpa: 81
+  - name: Tondgooyan High School
+    location: Qom
+    degree: Mathematical Physics
+    period: October 2005 - July 2008
+    gpa: 70
+experiences:
+  - company: Klarna
+    period: May 2022 - Now
+    website: https://www.klarna.com
+    title: Software Engineer
+  - company: Incloud Engineering GmbH
+    period: October 2019 - April 2022
+    website: https://www.incloud.de
+    title: Software Engineer
+  - company: Sokhan
+    period: May 2018 - September 2019
+    website: https://www.sokhan.ai
+    title: Chief Technical Officer
+  - company: Realtyna LLC
+    period: February 2013 - April 2018
+    website: https://www.realtyna.com
+    title: Head of Research and Development
+  - company: Sepad Inc
+    period: January 2017 - December 2017
+    website: https://www.sepad.com
+    title: Senior Software Engineer
+  - company: Chenar Studio
+    period: January 2015 - December 2017
+    website: https://www.chenarstudio.ir
+    title: Senior Software Engineer
+  - company: Rayafarhang Institute
+    period: January 2007 - December 2012
+    website: http://www.rayafarhang.com
+    title: Chief Technical Officer
+  - company: JetSoft Co.
+    period: January 2005 - December 2012
+    website: http://www.jetsoftco.com
+    title: Chief Technical Officer
+projects:
+  - title: Klarna App
+    company: Klarna
+    techStack: TypeScript, React, HTML, CSS
+    url: https://www.klarna.com
+    description: "Klarna's main web and mobile application: All your shopping in one app."
+  - title: Röhlig Pricing Manager
+    company: Incloud
+    techStack: Azure, C#, .NET Core, TypeScript, React, SQL Server, HTML, CSS
+    url: https://pricing.rohlig.com
+    description: "A web application built to manage all freight rates in one place and get spot quotes in seconds including local tariffs, trucking tariffs, airfreight tariffs and sea freight tariffs."
+  - title: Tchibo ESL Monitoring
+    company: Incloud
+    techStack: AWS, Serverless, TypeScript, React, MySQL, HTML, CSS
+    url: https://www.tchibo.de
+    description: "A monitoring web-app built to manage and supervise ESLs (electronic shelf labels) across all shops. Built using AWS including AWS Lambda, DynamoDB, S3 and many other services."
+  - title: Arvato Courseware Marketplace
+    company: Incloud
+    techStack: TypeScript, React, HTML, CSS
+    url: https://arvato.courseware-marketplace.com
+    description: "Redesign of the frontend application using React and TypeScript."
+  - title: Merck MPRD
+    company: Incloud
+    techStack: TypeScript, React, GraphQL, PostgreSQL, Electron, HTML, CSS
+    url: https://www.merckgroup.com
+    description: "Internal tool built to create and manage encoding jobs related to medicals"
+  - title: Crisis Decision Making System
+    company: Sokhan
+    techStack: Java, Swing, Python, JavaScript, Node.js, HTML, CSS
+    url: https://www.sokhan.ai
+    description: "This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information from multiple sources (including image-based and text-based sources) and analysing data using AI and Bayesian Networks. The frontend app was created to view the result on a map and also execute certain commands."
+  - title: Nava
+    company: Sokhan
+    techStack: Swift (iOS), Java (Android)
+    url: https://www.sokhan.ai
+    description: "Smart Personal Assistant application tailor-made for Iranian users (uses its own NLP technology connected through an API). I have refactored and developed this application."
+  - title: IKAC
+    company: Sokhan
+    techStack: Swift (iOS), Java (Android)
+    url: https://www.sokhan.ai, https://www.ikac.ir
+    description: "Built on top of Nava, this application is the official mobile application of Imam Khomeini Airport City. It borrows some of the personal assistant features of Nava plus other tools made specifically for the Airport. I have fully developed this application by myself."
+  - title: Hushbakhti
+    company: Freelance
+    techStack: Java (Android), Node.js, MongoDB, Strapi
+    url: http://www.hushbakhti.ir
+    description: "A simple game in which the player should  answer one question every day. At the end of each week, the top player will receive real money as prize. Fully developed by myself (including mobile app and API)."
+  - title: WPL
+    company: Realtyna LLC
+    techStack: PHP, MySQL, WordPress
+    url: http://wpl28.realtyna.com
+    description: "Web-based application and online solution for Real-estate business, with multitudes of addons. I was responsible for developing the main product plus some addons like CRM."
+  - title: Realtyna
+    company: Realtyna LLC
+    techStack: Swift (iOS), Java (Android)
+    url: https://itunes.apple.com/us/app/realtyna/id635888169, https://play.google.com/store/apps/details?id=com.realtyna.android
+    description: "Native mobile app for WPL (uses WPL API). I have helped developing this mobile app for both Android and iOS platforms."
+  - title: ERP
+    company: Realtyna LLC
+    techStack: PHP, MySQL, Laravel
+    url: http://erp.realtyna.com
+    description: "Advanced ERP software used for planning internal resources. I was responsible for managing the technical side of this project, advising solutions, leading the development team and help developing some parts of the project."
+  - title: RPL
+    company: Realtyna LLC
+    techStack: PHP, MySQL, Joomla
+    url: http://rpl.realtyna.com (defunct)
+    description: "Web-based application and online solution for Real-estate business, with multitudes of addons. I was responsible for developing the main product plus some addons like CRM and Franchise Solution."
+  - title: Sepad Smart Showcasing
+    company: Sepad Inc.
+    techStack: Swift, Node.js, PHP, MySQL, Redis, SQLite, Laravel
+    url: https://www.sepad.com, https://itunes.apple.com/us/app/sepad/id1294071124
+    description: "Interactive and intelligent app platform for showcasing retail catalogs like Property Listings, Retail Stores, Restaurants, Boutiques etc. This project consisted of multiple sub-projects which I have developed most of them solely, including Backend/API (PHP, Node.js, Laravel, MySQL, Redis), iOS app (Swift, SQLite) and tvOS app (Swift, SQLite)."
+  - title: Sky CRM
+    company: Rayafarhang Institute
+    techStack: VB.NET, SQL Server
+    url: http://www.rayafarhang.ir (defunct)
+    description: "A customer relationship management software for small and large corporations. I have fully developed this application by myself."
+  - title: Scan Studio
+    company: Rayafarhang Institute
+    techStack: VB.NET, SQL Server
+    url: http://www.rayafarhang.ir (defunct)
+    description: "An enterprise-level multi-functional photo management software for scanned documents (edit, align, manage, record and distribute) with dedicated quality control tool, plus a server-side application for monitoring client applications. Fully developed by myself."
+  - title: Ghesehaye Mandegar
+    company: Rayafarhang Institute
+    techStack: VB.NET, SQLite
+    url: http://www.rayafarhang.ir (defunct)
+    description: "An end-user application containing a large number of educational and life-inspirational stories. I have developed the core of the app while the user interface was developed using Adobe Flash by another developer."
+  - title: Entrance Automation
+    company: Rayafarhang Institute
+    techStack: VB.NET, SQL Server
+    url: http://www.rayafarhang.ir (defunct)
+    description: "A staff entrance automation and salary management application for corporate use. Fully developed by myself."
+  - title: Pastr
+    company: Hobby
+    techStack: Python, Flask
+    url: https://github.com/hossainalhaidari/pastr
+    description: "A minimal URL shortener and paste tool that has a dead-simple convention for using it."
+  - title: CheNote
+    company: Chenar Studio
+    techStack: Java (Android), SQLite
+    url: https://github.com/hossainalhaidari/chenote
+    description: "A dead-simple note taking app. Fully developed by myself."
+  - title: Pair
+    company: Chenar Studio
+    techStack: Java (Android), libGDX
+    url: https://github.com/hossainalhaidari/pair
+    description: "An addictive game in which you have to pair the colors from both sides of the screen. It has multiple types of challenges and a highscore menu. Fully developed by myself."
+  - title: Space Shooter
+    company: Chenar Studio
+    techStack: C#, Unity
+    url: https://github.com/hossainalhaidari/spaceshooter
+    description: "A space shooter game. Fully developed by myself."
+  - title: Filer
+    company: Hobby
+    techStack: Python, Django
+    url: https://github.com/hossainalhaidari/filer
+    description: "A minimal web-based file manager. Fully developed by myself."
+  - title: ePoke
+    company: Hobby
+    techStack: PHP, MySQL, Sharetronix
+    url: http://www.epoke.ir (defunct)
+    description: "A private social network platform. For this project, I have forked the Sharetronix project and extended its features and functionalities."
+  - title: eChair
+    company: Hobby
+    techStack: PHP, MySQL
+    url: http://www.echair.ir (defunct)
+    description: "A private social network platform. Fully developed by myself."
+achievements:
+  - description: AWS Cloud Practitioner Certificate
+    company: Incloud Engineering GmbH
+  - description: Advised technical solutions and led multiple teams
+    company: Sokhan, Realtyna LLC, Sepad Inc.
+  - description: Achieved excellent records on HR reports
+    company: Sokhan, Realtyna LLC, Sepad Inc.
+  - description: Became the Chief Technical Officer
+    company: Sokhan, Rayafarhang Institute
+  - description: Became the chief director of Research and Development department
+    company: Realtyna LLC
+  - description: Became the chief director of Mobile department
+    company: Sokhan, Realtyna LLC
+  - description: Became the Technical Vice President
+    company: Realtyna LLC
+  - description: Became I/O manager for third-party API-based applications
+    company: Realtyna LLC
+  - description: Became the supervisor of Real Estate MLS-based applications
+    company: Realtyna LLC
+  - description: Achieved the 21st rank
+    company: National Computer Festival
+  - description: Attended the A+ Essentials course
+    company: Imam Sadegh Institute
