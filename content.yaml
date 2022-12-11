@@ -155,11 +155,16 @@ projects:
     techStack: VB.NET, SQL Server
     url: http://www.rayafarhang.ir (defunct)
     description: "A staff entrance automation and salary management application for corporate use. Fully developed by myself."
+  - title: Filer
+    company: Hobby
+    techStack: Go, TypeScript, React, HTML, CSS
+    url: https://github.com/hossainalhaidari/filer
+    description: "A minimal web-based file manager. Fully developed by myself."
   - title: Pastr
     company: Hobby
-    techStack: Python, Flask
+    techStack: TypeScript, JavaScript, Rust, Python, Flask
     url: https://github.com/hossainalhaidari/pastr
-    description: "A minimal URL shortener and paste tool that has a dead-simple convention for using it."
+    description: "A super-minimal URL shortener and paste tool that has a dead-simple convention for using it. There are multiple versions of this app available in different languages."
   - title: CheNote
     company: Chenar Studio
     techStack: Java (Android), SQLite
@@ -175,11 +180,6 @@ projects:
     techStack: C#, Unity
     url: https://github.com/hossainalhaidari/spaceshooter
     description: "A space shooter game. Fully developed by myself."
-  - title: Filer
-    company: Hobby
-    techStack: Python, Django
-    url: https://github.com/hossainalhaidari/filer
-    description: "A minimal web-based file manager. Fully developed by myself."
   - title: ePoke
     company: Hobby
     techStack: PHP, MySQL, Sharetronix
