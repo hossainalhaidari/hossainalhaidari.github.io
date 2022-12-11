@@ -159,27 +159,32 @@ projects:
     company: Hobby
     techStack: Go, TypeScript, React, HTML, CSS
     url: https://github.com/hossainalhaidari/filer
-    description: "A minimal web-based file manager. Fully developed by myself."
+    description: "A minimal web-based file manager."
   - title: Pastr
     company: Hobby
     techStack: TypeScript, JavaScript, Rust, Python, Flask
     url: https://github.com/hossainalhaidari/pastr
     description: "A super-minimal URL shortener and paste tool that has a dead-simple convention for using it. There are multiple versions of this app available in different languages."
+  - title: Make Resume
+    company: Hobby
+    techStack: JavaScript
+    url: https://github.com/hossainalhaidari/mkresume, https://npmjs.com/package/mkresume
+    description: "CLI to generate resume based on templates."
   - title: CheNote
     company: Chenar Studio
     techStack: Java (Android), SQLite
     url: https://github.com/hossainalhaidari/chenote
-    description: "A dead-simple note taking app. Fully developed by myself."
+    description: "A dead-simple note taking app."
   - title: Pair
     company: Chenar Studio
     techStack: Java (Android), libGDX
     url: https://github.com/hossainalhaidari/pair
-    description: "An addictive game in which you have to pair the colors from both sides of the screen. It has multiple types of challenges and a highscore menu. Fully developed by myself."
+    description: "An addictive game in which you have to pair the colors from both sides of the screen. It has multiple types of challenges and a highscore menu."
   - title: Space Shooter
     company: Chenar Studio
     techStack: C#, Unity
     url: https://github.com/hossainalhaidari/spaceshooter
-    description: "A space shooter game. Fully developed by myself."
+    description: "A space shooter game."
   - title: ePoke
     company: Hobby
     techStack: PHP, MySQL, Sharetronix
@@ -189,7 +194,7 @@ projects:
     company: Hobby
     techStack: PHP, MySQL
     url: http://www.echair.ir (defunct)
-    description: "A private social network platform. Fully developed by myself."
+    description: "A private social network platform for asking questions ."
 achievements:
   - description: AWS Cloud Practitioner Certificate
     company: Incloud Engineering GmbH
