@@ -170,6 +170,11 @@ projects:
     techStack: JavaScript
     url: https://github.com/hossainalhaidari/mkresume, https://npmjs.com/package/mkresume
     description: "CLI to generate resume based on templates."
+  - title: Soli
+    company: Hobby
+    techStack: TypeScript
+    url: https://github.com/hossainalhaidari/soli
+    description: "CLI-based Solitare game."
   - title: CheNote
     company: Chenar Studio
     techStack: Java (Android), SQLite
