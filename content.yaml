@@ -128,7 +128,7 @@ projects:
   - title: RPL
     company: Realtyna LLC
     techStack: PHP, MySQL, Joomla
-    url: http://rpl.realtyna.com (defunct)
+    url: http://rpl.realtyna.com
     description: "Web-based application and online solution for Real-estate business, with multitudes of addons. I was responsible for developing the main product plus some addons like CRM and Franchise Solution."
   - title: Sepad Smart Showcasing
     company: Sepad Inc.
@@ -138,22 +138,22 @@ projects:
   - title: Sky CRM
     company: Rayafarhang Institute
     techStack: VB.NET, SQL Server
-    url: http://www.rayafarhang.ir (defunct)
+    url: http://www.rayafarhang.ir
     description: "A customer relationship management software for small and large corporations. I have fully developed this application by myself."
   - title: Scan Studio
     company: Rayafarhang Institute
     techStack: VB.NET, SQL Server
-    url: http://www.rayafarhang.ir (defunct)
+    url: http://www.rayafarhang.ir
     description: "An enterprise-level multi-functional photo management software for scanned documents (edit, align, manage, record and distribute) with dedicated quality control tool, plus a server-side application for monitoring client applications. Fully developed by myself."
   - title: Ghesehaye Mandegar
     company: Rayafarhang Institute
     techStack: VB.NET, SQLite
-    url: http://www.rayafarhang.ir (defunct)
+    url: http://www.rayafarhang.ir
     description: "An end-user application containing a large number of educational and life-inspirational stories. I have developed the core of the app while the user interface was developed using Adobe Flash by another developer."
   - title: Entrance Automation
     company: Rayafarhang Institute
     techStack: VB.NET, SQL Server
-    url: http://www.rayafarhang.ir (defunct)
+    url: http://www.rayafarhang.ir
     description: "A staff entrance automation and salary management application for corporate use. Fully developed by myself."
   - title: Filer
     company: Hobby
@@ -162,7 +162,7 @@ projects:
     description: "A minimal web-based file manager."
   - title: Pastr
     company: Hobby
-    techStack: TypeScript, JavaScript, Rust, Python, Flask
+    techStack: Go, TypeScript, JavaScript, Rust, Python, Flask
     url: https://github.com/hossainalhaidari/pastr
     description: "A super-minimal URL shortener and paste tool that has a dead-simple convention for using it. There are multiple versions of this app available in different languages."
   - title: Make Resume
@@ -170,10 +170,10 @@ projects:
     techStack: JavaScript
     url: https://github.com/hossainalhaidari/mkresume, https://npmjs.com/package/mkresume
     description: "CLI to generate resume based on templates."
-  - title: Soli
+  - title: Solitare
     company: Hobby
     techStack: TypeScript
-    url: https://github.com/hossainalhaidari/soli
+    url: https://github.com/hossainalhaidari/solitare
     description: "CLI-based Solitare game."
   - title: CheNote
     company: Chenar Studio
@@ -193,12 +193,12 @@ projects:
   - title: ePoke
     company: Hobby
     techStack: PHP, MySQL, Sharetronix
-    url: http://www.epoke.ir (defunct)
+    url: http://www.epoke.ir
     description: "A private social network platform. For this project, I have forked the Sharetronix project and extended its features and functionalities."
   - title: eChair
     company: Hobby
     techStack: PHP, MySQL
-    url: http://www.echair.ir (defunct)
+    url: http://www.echair.ir
     description: "A private social network platform for asking questions ."
 achievements:
   - description: AWS Cloud Practitioner Certificate
