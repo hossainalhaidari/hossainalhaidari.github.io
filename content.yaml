@@ -16,10 +16,10 @@ profiles:
   - title: Stack Overflow
     url: https://stackoverflow.com/users/926367/hossain-alhaidari
 skills:
-  - title: "Experienced in:"
-    value: TypeScript, React, C#, .NET Core, Java, Python, Swift, AWS, Azure, CI/CD, RDBMS, NoSQL
-  - title: "Less experienced but interested in:"
-    value: Rust, Go, Godot, Unity
+  - title: "Currently working with:"
+    value: TypeScript, React, Rust, Go, Godot, AWS
+  - title: "Also used to work with:"
+    value: C#, Java, Python, Swift, Azure
 educations:
   - name: AIAU University
     location: Markazi
