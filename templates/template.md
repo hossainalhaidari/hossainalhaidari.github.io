@@ -3,7 +3,6 @@
 {{@each(it.summary) => it}}
 **{{it.title}}** {{it.value}}  
 {{/each}}
-**Profiles** {{@each(it.profiles) => it}}[{{it.title}}]({{it.url}}), {{/each}}
 
 
 # SKILLS
@@ -35,7 +34,7 @@ Grade Percentage: **{{it.gpa}}%**
 *{{it.description}}*  
 
 {{/each}}
-# ACHIEVEMENTS
-{{@each(it.achievements) => it}}
-- {{it.description}} — *{{it.company}}*
+# CERTIFICATES
+{{@each(it.certificates) => it}}
+- {{it.description}}
 {{/each}}

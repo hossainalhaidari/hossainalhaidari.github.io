@@ -19,9 +19,6 @@
       {{@each(it.summary) => it}}
       <strong>{{it.title}}</strong> {{it.value}}<br />
       {{/each}}
-      <strong>Profiles</strong>
-      {{@each(it.profiles) => it}}
-      <a href="{{it.url}}">{{it.title}}</a>, {{/each}}
     </p>
     <h2>SKILLS</h2>
     {{@each(it.skills) => it}}
@@ -56,13 +53,10 @@
       <em>{{it.description}}</em>
     </p>
     {{/each}}
-    <h2>ACHIEVEMENTS</h2>
+    <h2>CERTIFICATES</h2>
     <ul>
-      {{@each(it.achievements) => it}}
-      <li>
-        {{it.description}} —
-        <em>{{it.company}}</em>
-      </li>
+      {{@each(it.certificates) => it}}
+      <li>{{it.title}}</li>
       {{/each}}
     </ul>
   </body>

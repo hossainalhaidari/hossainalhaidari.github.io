@@ -1,20 +1,17 @@
 title: HOSSAIN ALHAIDARI
 summary:
-  - title: Website
-    value: https://hossain.al
-  - title: Birthday
-    value: 1991
+  - title: Age
+    value: 32
   - title: Location
     value: Germany
   - title: Languages
     value: English, German, Persian, Arabic
-profiles:
+  - title: Website
+    value: https://hossain.al
   - title: GitHub
-    url: https://github.com/hossainalhaidari
+    value: https://github.com/hossainalhaidari
   - title: LinkedIn
-    url: https://www.linkedin.com/in/hossainalhaidari
-  - title: Stack Overflow
-    url: https://stackoverflow.com/users/926367/hossain-alhaidari
+    value: https://www.linkedin.com/in/hossainalhaidari
 skills:
   - title: "Currently working with:"
     value: TypeScript, React, Rust, Go, Godot, AWS
@@ -200,26 +197,7 @@ projects:
     techStack: PHP, MySQL
     url: http://www.echair.ir
     description: "A private social network platform for asking questions ."
-achievements:
-  - description: AWS Cloud Practitioner Certificate
-    company: Incloud Engineering GmbH
-  - description: Advised technical solutions and led multiple teams
-    company: Sokhan, Realtyna LLC, Sepad Inc.
-  - description: Achieved excellent records on HR reports
-    company: Sokhan, Realtyna LLC, Sepad Inc.
-  - description: Became the Chief Technical Officer
-    company: Sokhan, Rayafarhang Institute
-  - description: Became the chief director of Research and Development department
-    company: Realtyna LLC
-  - description: Became the chief director of Mobile department
-    company: Sokhan, Realtyna LLC
-  - description: Became the Technical Vice President
-    company: Realtyna LLC
-  - description: Became I/O manager for third-party API-based applications
-    company: Realtyna LLC
-  - description: Became the supervisor of Real Estate MLS-based applications
-    company: Realtyna LLC
-  - description: Achieved the 21st rank
-    company: National Computer Festival
-  - description: Attended the A+ Essentials course
-    company: Imam Sadegh Institute
+certificates:
+  - title: telc Deutsch B1
+  - title: AWS Cloud Practitioner
+  - title: A+ Essentials
