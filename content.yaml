@@ -62,6 +62,11 @@ experiences:
     website: http://www.jetsoftco.com
     title: Chief Technical Officer
 projects:
+  - title: Traders and Tricksters
+    company: Hobby
+    techStack: Godot, GDScript
+    url: https://store.steampowered.com/app/2640800/Traders_and_Tricksters/
+    description: "An online multiplayer board game with a twist: Gather all the cards or trick others into getting fake cards."
   - title: Klarna App
     company: Klarna
     techStack: TypeScript, React, HTML, CSS
